@@ -5,4 +5,4 @@ The best ways are:
 - sleep
 - code
 - repeat
-Thank You!
+- Thank You!
